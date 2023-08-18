@@ -24,6 +24,7 @@
 
 - Automate the use of Glimmer::LibUI.queue_main from other threads
 
+- Figure out if there is a way to make `on_mouse_up` listener work when nested inside immediate mode shapes created inside `area` `on_draw`
 - Update Supported Controls documentation with allowed parents and allowed children
 - Support overriding global `table` `editable` state with a specific column `editable` state if global value is `true` and column value is `false`
 
