@@ -2839,6 +2839,12 @@ https://github.com/kojix2/htsgrid
 
 ![hts grid screenshot](https://raw.githubusercontent.com/AndyObtiva/htsgrid/main/screenshot-00.png)
 
+### Electric Avenue
+
+This is built as an exploratory software prototype by [Ari Brown](https://github.com/seydar) (closed source software).
+
+![Electric Avenue](https://user-images.githubusercontent.com/16188/260890040-b4b28429-1789-4cdd-a708-45a2bd62b70f.png)
+
 ## Process
 
 [Glimmer Process](https://github.com/AndyObtiva/glimmer/blob/master/PROCESS.md)
