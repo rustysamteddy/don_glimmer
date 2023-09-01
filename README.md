@@ -2423,7 +2423,7 @@ To learn more about the [LibUI](https://github.com/kojix2/LibUI) API exposed thr
 
 I am documenting options for packaging, which I have not tried myself, but figured they would still be useful to add to the README.md until I can expand further effort into supporting packaging.
 
-For Windows, the [LibUI](https://github.com/kojix2/LibUI) project recommends [OCRA](https://github.com/larsch/ocra) (One-Click Ruby Application), which builds Windows executables from Ruby source. And, there is a newer fork of the project that supports newer versions of Ruby called [OCRAN](https://github.com/Largo/ocran)
+For Windows, the [LibUI](https://github.com/kojix2/LibUI) project recommends [OCRA](https://github.com/larsch/ocra) (One-Click Ruby Application), which builds Windows executables from Ruby source. And, there is a newer fork of the project that supports newer versions of Ruby called [OCRAN](https://github.com/Largo/ocran).
 
 For Mac, consider [Platypus](https://github.com/sveinbjornt/Platypus) (builds a native Mac app from a Ruby script)
 
